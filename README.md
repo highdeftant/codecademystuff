@@ -1,3 +1,2 @@
-# codecademystuff
-A bunch of random projects i've completed on codecademy.
-
+# Codecademy Stuff
+Random projects I've completed on codecademy.
